@@ -255,4 +255,4 @@ xyplot(
 
 ![](PA1_template_files/figure-html/unnamed-chunk-14-1.png)
 
-P.S. The figures are placed in the directory `PA1_template_files\figure-html` which is created by default using R-Studio Version 0.99.491.
+

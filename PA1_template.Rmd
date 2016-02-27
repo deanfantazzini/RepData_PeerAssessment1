@@ -1,6 +1,6 @@
 ---
 title: "Reproducible Research: Peer Assessment 1"
-output: 
+output:
   html_document:
     keep_md: true
 ---
@@ -197,4 +197,4 @@ xyplot(
 )
 ```
 
-P.S. The figures are placed in the directory `PA1_template_files\figure-html` which is created by default using R-Studio Version 0.99.491.
+
